@@ -1,0 +1,8 @@
+prefix=/home/codemonster/drone_ws/install
+
+Name: drone_basic
+Description: Description of drone_basic
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/codemonster/drone_ws/install/setup.sh
