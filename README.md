@@ -1,6 +1,6 @@
 # UAV-Obstacle-Avoidance
 
-This repo consists of obstacle avoidance implemented in Robot operating system for Unmanned Aerial Vehicle (UAV) using LiDAR scan data. Hector quadrotor package is used for spawning the drone in the gazebo environment. Readings from SONAR sensor with python script is used for flying he drone to a certain height. LiDAR readings are used to detect obstacles in the surroundings.
+This repo consists of obstacle avoidance implemented in Robot operating system for Unmanned Aerial Vehicle (UAV) using LiDAR scan data. Hector quadrotor package is used for spawning the drone in the gazebo environment. Readings from SONAR sensor with python script is used for flying the drone to a certain height. LiDAR readings are used to detect obstacles in the surroundings.
 
 To spawn the drone in the gazebo open the terminal and use the command:
 
